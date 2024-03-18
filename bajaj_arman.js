@@ -35,7 +35,7 @@ const buyStocks = async (accountNumber) => {
     company: "Bajaj Finserv",
     currentPrice: 5000, 
     accountNumber: accountNumber,
-    githubRepoLink: "https://github.com/armankang" 
+    githubRepoLink: "https://github.com/armankang/arman_bajaj_finserv/tree/main" 
   };
 
   try {
